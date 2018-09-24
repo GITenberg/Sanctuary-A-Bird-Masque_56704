@@ -1,10 +1,13 @@
 _repo: Sanctuary-A-Bird-Masque_56704
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   commentator:
     agent_name: MacKaye, Arvia
     gutenberg_agent_id: '48990'
     url: http://www.gutenberg.org/2009/agents/48990
+covers:
+- cover_type: archival
+  image_path: 56704-h/images/cover.jpg
 creator:
   author:
     agent_name: MacKaye, Percy
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7390
     wikipedia: http://en.wikipedia.org/wiki/Percy_MacKaye
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56704#Sanctuary-A-Bird-Masque
 gutenberg_issued: '2018-03-08'
 gutenberg_type: Text
 identifiers:
